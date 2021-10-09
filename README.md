@@ -3,6 +3,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Super Useful Azure DevOps Extensions](/blog/5-super-useful-azure-devops-extensions/)
+- [The Business Case For Diversity](/blog/the-business-case-for-diversity/)
+- [Three most popular Git workflows](/blog/three-most-popular-git-workflows/)
+- [4 ways to make your site work for a global audience](/blog/4-ways-to-make-your-site-work-for-a-global-audience/)
 <!-- BLOG-POST-LIST:END -->
 
 
