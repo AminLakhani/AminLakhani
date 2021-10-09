@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hi there 👋 I'm Amin. 
+### Sometimes I write code. 
 
+- 📚 - Undergrad @ DePaul University 
+- 🏫 - MBA @ University of Illinois at Urbana Champaign 
+- 🏢 - Application Development Manager @ Microsoft. 
 
-# Blog posts
+## Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Super Useful Azure DevOps Extensions](/blog/5-super-useful-azure-devops-extensions/)
 - [The Business Case For Diversity](/blog/the-business-case-for-diversity/)
