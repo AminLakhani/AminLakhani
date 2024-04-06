@@ -3,7 +3,7 @@
 
 - 📚 - Undergrad @ DePaul University 
 - 🏫 - MBA @ University of Illinois at Urbana Champaign 
-- 🏢 - Application Development Manager @ Microsoft. 
+- 🏢 - Former Application Development Manager @ Microsoft. 
 
 ## Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
